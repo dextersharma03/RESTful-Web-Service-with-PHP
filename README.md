@@ -2,7 +2,7 @@
 
 ## You can do various CRUD (Create, Read, Update, Delete) operations:
 ## 1. It pulls the data using the RESTAPI
-![](images/one.jpg)
+![](images/One.jpg)
 
 ## 2. You can edit, delete the data as well
 ![](images/Two.jpg)
