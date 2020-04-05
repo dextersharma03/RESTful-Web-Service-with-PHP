@@ -2,10 +2,10 @@
 
 ## You can do various CRUD (Create, Read, Update, Delete) operations:
 ## 1. It pulls the data using the RESTAPI
-![](images/one.jpeg)
+![](images/one.jpg)
 
 ## 2. You can edit, delete the data as well
-![](images/Two.jpeg)
+![](images/Two.jpg)
 
 ## 3. It is a simple illustration of how REST can make the communication between the client and server so easy.
 
